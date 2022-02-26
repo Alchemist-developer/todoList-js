@@ -2,7 +2,7 @@
 
 To-do List utilizando JavaScript com armazenamento no localStorage.
 
-<img src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.30808-6/274590704_114727104470632_5201772314836656738_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=PeWdrXTVaXoAX9HNtfK&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT88T79Xpyo2CQO1O2F2y_njQXS3YMU0B9gt6ZKH5js2hg&oe=6218F50F" height="333">
+
 
 <h4>Esse projeto básico contém:</h4>
 • Função de criar, adicionar tarefas e atualizar tela;</br>
