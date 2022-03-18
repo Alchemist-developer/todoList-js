@@ -1,11 +1,5 @@
 'use strict';
 
-// let banco = [
-//     {'tarefa': 'Estudar JS', 'status': ''},
-//     {'tarefa': 'Netflix', 'status': ''},
-//     {'tarefa': 'Teste', 'status': ''}
-// ];
-
 const getBanco = () => JSON.parse(localStorage.getItem('todoList')) ?? [];
 const setBanco = (banco) => localStorage.setItem('todoList', JSON.stringify(banco));
 
