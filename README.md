@@ -9,7 +9,7 @@ To-do List utilizando JavaScript com armazenamento no localStorage.
 • Simulação de banco de dados com JSON;</br>
 • Tarefas sendo identificadas como um índice;</br>
 • Ações de deletar e atualizar status da tarefa;</br>
-• Por fim, dados salvos no localStorage;</br>
+• Por fim, dados em localStorage;</br>
 
 </br><i>O To-do List é uma aplicação para controle de tarefas, onde se pode criar novas tarefas e "riscar" da sua lista as que já foram concluídas.
 Nesse projeto foi utilizado apenas HTML, CSS e JS.</I>
